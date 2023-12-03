@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2023-12-04
+
+### Added
+
+- `mergeObjects` function for merging multiple objects into one.
+
+### Updated
+
+- `package.json` to include Jest test script.
+
 ## [1.0.1] - 2023-11-25
 
 ### Added

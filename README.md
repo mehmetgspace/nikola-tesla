@@ -32,6 +32,14 @@ Calculates the number of days between two dates.
 getDaysBetweenDates(startDate: Date, endDate: Date): number
 ```
 
+### mergeObjects.ts
+
+Merges multiple objects into one.
+
+```
+mergeObjects(...objects: Object[]): Object
+```
+
 ## Contributing
 
 Contributions are always welcome. Here's how you can contribute:
