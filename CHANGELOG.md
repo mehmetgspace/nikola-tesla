@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2023-02-03
+
+### Added
+
+- `findAndReplace` function to search for a string within another string and replace it.
+
+### Updated
+
+- README adjustments for image name correction and description reordering.
+
 ## [1.0.2] - 2023-12-04
 
 ### Added

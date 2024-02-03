@@ -40,6 +40,14 @@ Merges multiple objects into one.
 mergeObjects(...objects: Object[]): Object
 ```
 
+### findAndReplace.ts
+
+Searches for a string within another string and replaces it with a specified replacement string.
+
+```
+findAndReplace(text: string, search: string, replacement: string): string
+```
+
 ## Contributing
 
 Contributions are always welcome. Here's how you can contribute:
