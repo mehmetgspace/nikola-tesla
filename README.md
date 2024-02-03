@@ -1,8 +1,8 @@
 # Nikola Tesla
 
-![Project Logo](https://raw.githubusercontent.com/mehmetgspace/nikola-tesla/43e9bc864e2a98559093abd6a03c3dd8b5cebb94/nikola-tesla.png)
-
 A versatile collection of JavaScript/TypeScript helper functions for web development projects.
+
+![Project Logo](nikola-tesla.png)
 
 ![npm](https://img.shields.io/npm/v/nikola-tesla)
 
