@@ -2,7 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.3] - 2023-02-03
+## [1.0.4] - 2024-02-04
+
+### Updated
+
+- Updated `package.json` description to better summarize the project's purpose.
+
+### Fixed
+
+- Corrected the project logo image path in README.md to display the image on npmjs correctly.
+- Version 1.0.3 title to include the correct date.
+
+## [1.0.3] - 2024-02-03
 
 ### Added
 
