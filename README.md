@@ -2,7 +2,7 @@
 
 A versatile collection of JavaScript/TypeScript helper functions for web development projects.
 
-![Project Logo](nikola-tesla.png)
+![Project Logo](https://raw.githubusercontent.com/mehmetgspace/nikola-tesla/main/nikola-tesla.png)
 
 ![npm](https://img.shields.io/npm/v/nikola-tesla)
 
